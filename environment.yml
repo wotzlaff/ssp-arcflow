@@ -1,0 +1,7 @@
+name: grb
+channels:
+  - gurobi
+dependencies:
+  - conda-build=*
+  - gurobi=*
+  - sortedcontainers=*
