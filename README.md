@@ -45,3 +45,5 @@ to compute solve the LP relaxation of the instances in `Scholl_3_HARD.dat`, wher
 ## References
 <a id="1">[1]</a>
 Martinovic, J., Delorme, M., Iori, M., Scheithauer, G., & Strasdat, N. (2020). Improved flow-based formulations for the skiving stock problem. Computers & Operations Research, 113, 104770.
+
+Some example instances can be found here: https://github.com/wotzlaff/ssp-data.
